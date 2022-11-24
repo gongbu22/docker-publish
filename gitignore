@@ -1,0 +1,5 @@
+# environment files
+.env
+
+i# nodejs node_modules
+**/node_modules
